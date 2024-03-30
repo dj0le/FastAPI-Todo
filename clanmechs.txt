@@ -1,0 +1,213 @@
+Name : Name of Mech | Tons: Tonnage | BV: BV | PV: PV | Role: Role
+Name : Baboon (Howler) 5 | Tons: 20 | BV: 1,363 | PV: 29 | Role: Striker
+Name : Dasher (Fire Moth) E | Tons: 20 | BV: 822 | PV: 18 | Role: Scout
+Name : Dasher (Fire Moth) H | Tons: 20 | BV: 779 | PV: 25 | Role: Striker
+Name : Piranha   | Tons: 20 | BV: 998 | PV: 25 | Role: Striker
+Name : Fire Falcon A | Tons: 25 | BV: 822 | PV: 27 | Role: Striker
+Name : Fire Falcon B | Tons: 25 | BV: 1,570 | PV: 28 | Role: Sniper
+Name : Fire Falcon C | Tons: 25 | BV: 1,004 | PV: 34 | Role: Striker
+Name : Fire Falcon D | Tons: 25 | BV: 826 | PV: 27 | Role: Striker
+Name : Fire Falcon E | Tons: 25 | BV: 1,094 | PV: 27 | Role: Striker
+Name : Fire Falcon Prime | Tons: 25 | BV: 1,451 | PV: 40 | Role: Striker
+Name : Koshi (Mist Lynx) E | Tons: 25 | BV: 997 | PV: 32 | Role: Striker
+Name : Koshi (Mist Lynx) H | Tons: 25 | BV: 982 | PV: 32 | Role: Striker
+Name : Koshi (Mist Lynx) P | Tons: 25 | BV: 1,064 | PV: 23 | Role: Scout
+Name : Locust IIC 5 | Tons: 25 | BV: 878 | PV: 27 | Role: Striker
+Name : Hankyu (Arctic Cheetah) A | Tons: 30 | BV: 1,117 | PV: 32 | Role: Striker
+Name : Hankyu (Arctic Cheetah) B | Tons: 30 | BV: 1,076 | PV: 28 | Role: Striker
+Name : Hankyu (Arctic Cheetah) C | Tons: 30 | BV: 1,840 | PV: 37 | Role: Striker
+Name : Hankyu (Arctic Cheetah) D | Tons: 30 | BV: 1,080 | PV: 30 | Role: Missile Boat
+Name : Hankyu (Arctic Cheetah) Prime | Tons: 30 | BV: 1,334 | PV: 36 | Role: Striker
+Name : Hellion A | Tons: 30 | BV: 1,543 | PV: 39 | Role: Missile Boat
+Name : Hellion B | Tons: 30 | BV: 1,569 | PV: 38 | Role: Striker
+Name : Hellion C | Tons: 30 | BV: 2,095 | PV: 43 | Role: Striker
+Name : Hellion Prime | Tons: 30 | BV: 1,873 | PV: 43 | Role: Striker
+Name : Pack Hunter   | Tons: 30 | BV: 1,369 | PV: 27 | Role: Striker
+Name : Uller (Kit Fox) C | Tons: 30 | BV: 1,147 | PV: 27 | Role: Striker
+Name : Uller (Kit Fox) E | Tons: 30 | BV: 1,415 | PV: 26 | Role: Striker
+Name : Uller (Kit Fox) G | Tons: 30 | BV: 1,368 | PV: 30 | Role: Sniper
+Name : Uller (Kit Fox) H | Tons: 30 | BV: 1,214 | PV: 30 | Role: Striker
+Name : Uller (Kit Fox) J | Tons: 30 | BV: 1,178 | PV: 25 | Role: Striker
+Name : Uller (Kit Fox) S | Tons: 30 | BV: 1,342 | PV: 27 | Role: Striker
+Name : Uller (Kit Fox) W | Tons: 30 | BV: 1,431 | PV: 28 | Role: Sniper
+Name : Vixen (Incubus) 3 | Tons: 30 | BV: 1,324 | PV: 36 | Role: Striker
+Name : Cougar A | Tons: 35 | BV: 1,697 | PV: 40 | Role: Missile Boat
+Name : Cougar B | Tons: 35 | BV: 1,774 | PV: 33 | Role: Sniper
+Name : Cougar C | Tons: 35 | BV: 1,785 | PV: 35 | Role: Brawler
+Name : Cougar D | Tons: 35 | BV: 1,309 | PV: 33 | Role: Sniper
+Name : Cougar H | Tons: 35 | BV: 1,323 | PV: 33 | Role: Brawler
+Name : Cougar Prime | Tons: 35 | BV: 1,485 | PV: 31 | Role: Sniper
+Name : Jenner IIC   | Tons: 35 | BV: 1,047 | PV: 29 | Role: Striker
+Name : Jenner IIC 2 | Tons: 35 | BV: 1,406 | PV: 26 | Role: Striker
+Name : Jenner IIC 3 | Tons: 35 | BV: 788 | PV: 25 | Role: Striker
+Name : Jenner IIC 4 | Tons: 35 | BV: 1,052 | PV: 24 | Role: Striker
+Name : Peregrine (Horned Owl) 3 | Tons: 35 | BV: 1,545 | PV: 28 | Role: Sniper
+Name : Puma (Adder) E | Tons: 35 | BV: 1,272 | PV: 31 | Role: Sniper
+Name : Puma (Adder) H | Tons: 35 | BV: 1,453 | PV: 28 | Role: Brawler
+Name : Puma (Adder) S | Tons: 35 | BV: 1,427 | PV: 38 | Role: Scout
+Name : Puma (Adder) TC | Tons: 35 | BV: 1,247 | PV: 30 | Role: Striker
+Name : Wolfhound IIC "Grinner" | Tons: 35 | BV: 1,579 | PV: 33 | Role: Striker
+Name : Arctic Wolf   | Tons: 40 | BV: 1,330 | PV: 39 | Role: Striker
+Name : Arctic Wolf 2 | Tons: 40 | BV: 1,511 | PV: 41 | Role: Striker
+Name : Battle Cobra F | Tons: 40 | BV: 1,507 | PV: 29 | Role: Striker
+Name : Battle Cobra H | Tons: 40 | BV: 1,592 | PV: 34 | Role: Striker
+Name : Dragonfly (Viper) E | Tons: 40 | BV: 1,561 | PV: 38 | Role: Striker
+Name : Griffin IIC 3 | Tons: 40 | BV: 1,532 | PV: 30 | Role: Striker
+Name : Griffin IIC 4 | Tons: 40 | BV: 1,475 | PV: 30 | Role: Striker
+Name : Lobo   | Tons: 40 | BV: 1,715 | PV: 32 | Role: Striker
+Name : Phantom A | Tons: 40 | BV: 1,410 | PV: 43 | Role: Striker
+Name : Phantom B | Tons: 40 | BV: 1,096 | PV: 34 | Role: Scout
+Name : Phantom C | Tons: 40 | BV: 1,590 | PV: 51 | Role: Striker
+Name : Phantom D | Tons: 40 | BV: 1,581 | PV: 41 | Role: Striker
+Name : Phantom E | Tons: 40 | BV: 975 | PV: 27 | Role: Striker
+Name : Phantom Prime | Tons: 40 | BV: 1,159 | PV: 37 | Role: Scout
+Name : Pouncer A | Tons: 40 | BV: 2,081 | PV: 36 | Role: Missile Boat
+Name : Pouncer B | Tons: 40 | BV: 1,836 | PV: 32 | Role: Sniper
+Name : Pouncer C | Tons: 40 | BV: 1,653 | PV: 37 | Role: Striker
+Name : Pouncer D | Tons: 40 | BV: 2,246 | PV: 33 | Role: Striker
+Name : Pouncer E | Tons: 40 | BV: 1,632 | PV: 35 | Role: Striker
+Name : Pouncer Prime | Tons: 40 | BV: 2,557 | PV: 31 | Role: Sniper
+Name : Fenris (Ice Ferret) E | Tons: 45 | BV: 1,483 | PV: 41 | Role: Striker
+Name : Fenris (Ice Ferret) H | Tons: 45 | BV: 1,619 | PV: 45 | Role: Striker
+Name : Grendel (Mongrel) A | Tons: 45 | BV: 2,031 | PV: 48 | Role: Missile Boat
+Name : Grendel (Mongrel) B | Tons: 45 | BV: 1,903 | PV: 45 | Role: Striker
+Name : Grendel (Mongrel) C | Tons: 45 | BV: 1,465 | PV: 36 | Role: Striker
+Name : Grendel (Mongrel) D | Tons: 45 | BV: 2,212 | PV: 43 | Role: Striker
+Name : Grendel (Mongrel) E | Tons: 45 | BV: 1,806 | PV: 46 | Role: Striker
+Name : Grendel (Mongrel) Prime | Tons: 45 | BV: 2,290 | PV: 46 | Role: Striker
+Name : Shadow Cat C | Tons: 45 | BV: 2,199 | PV: 45 | Role: Striker
+Name : Shadow Cat M | Tons: 45 | BV: 2,438 | PV: 40 | Role: Striker
+Name : Shadow Cat TC | Tons: 45 | BV: 1,378 | PV: 35 | Role: Scout
+Name : Shadow Hawk IIC 3 | Tons: 45 | BV: 1,471 | PV: 33 | Role: Striker
+Name : Shadow Hawk IIC 4 | Tons: 45 | BV: 1,698 | PV: 37 | Role: Striker
+Name : Black Hawk (Nova) E | Tons: 50 | BV: 2,078 | PV: 40 | Role: Skirmisher
+Name : Black Hawk (Nova) H | Tons: 50 | BV: 1,832 | PV: 45 | Role: Skirmisher
+Name : Black Hawk (Nova) S | Tons: 50 | BV: 2,056 | PV: 43 | Role: Skirmisher
+Name : Hunchback IIC 2 | Tons: 50 | BV: 1,869 | PV: 29 | Role: Ambusher
+Name : Nobori-nin (Huntsman) A | Tons: 50 | BV: 2,034 | PV: 37 | Role: Sniper
+Name : Nobori-nin (Huntsman) B | Tons: 50 | BV: 2,156 | PV: 38 | Role: Skirmisher
+Name : Nobori-nin (Huntsman) C | Tons: 50 | BV: 2,199 | PV: 43 | Role: Missile Boat
+Name : Nobori-nin (Huntsman) D | Tons: 50 | BV: 2,007 | PV: 43 | Role: Skirmisher
+Name : Nobori-nin (Huntsman) Prime | Tons: 50 | BV: 2,108 | PV: 42 | Role: Skirmisher
+Name : Stalking Spider   | Tons: 50 | BV: 2,232 | PV: 39 | Role: Skirmisher
+Name : Stalking Spider 2 | Tons: 50 | BV: 2,056 | PV: 37 | Role: Skirmisher
+Name : Ursus   | Tons: 50 | BV: 1,778 | PV: 39 | Role: Brawler
+Name : Black Lanner A | Tons: 55 | BV: 2,308 | PV: 50 | Role: Skirmisher
+Name : Black Lanner B | Tons: 55 | BV: 1,961 | PV: 40 | Role: Missile Boat
+Name : Black Lanner C | Tons: 55 | BV: 2,523 | PV: 52 | Role: Skirmisher
+Name : Black Lanner D | Tons: 55 | BV: 1,809 | PV: 51 | Role: Skirmisher
+Name : Black Lanner H | Tons: 55 | BV: 1,928 | PV: 48 | Role: Skirmisher
+Name : Black Lanner Prime | Tons: 55 | BV: 2,268 | PV: 47 | Role: Skirmisher
+Name : Hoplite C | Tons: 55 | BV: 1,736 | PV: 40 | Role: Brawler
+Name : Ryoken (Stormcrow) (Attwater) | Tons: 55 | BV: 1,482 | PV: 32 | Role: Sniper
+Name : Ryoken (Stormcrow) (Kotare) | Tons: 55 | BV: 2,382 | PV: 46 | Role: Skirmisher
+Name : Ryoken (Stormcrow) E | Tons: 55 | BV: 2,110 | PV: 52 | Role: Striker
+Name : Ryoken (Stormcrow) H | Tons: 55 | BV: 2,061 | PV: 42 | Role: Striker
+Name : Ryoken (Stormcrow) I | Tons: 55 | BV: 2,319 | PV: 42 | Role: Sniper
+Name : Ryoken (Stormcrow) P | Tons: 55 | BV: 2,213 | PV: 41 | Role: Striker
+Name : Ryoken (Stormcrow) TC | Tons: 55 | BV: 2,373 | PV: 43 | Role: Skirmisher
+Name : Stooping Hawk D | Tons: 55 | BV: 1,838 | PV: 48 | Role: Skirmisher
+Name : Stooping Hawk E | Tons: 55 | BV: 1,674 | PV: 41 | Role: Skirmisher
+Name : Hellfire   | Tons: 60 | BV: 2,114 | PV: 45 | Role: Brawler
+Name : Predator   | Tons: 60 | BV: 1,754 | PV: 39 | Role: Skirmisher
+Name : Vulture (Mad Dog) D | Tons: 60 | BV: 2,447 | PV: 48 | Role: Skirmisher
+Name : Vulture (Mad Dog) DD | Tons: 60 | BV: 1,970 | PV: 41 | Role: Brawler
+Name : Vulture (Mad Dog) H | Tons: 60 | BV: 2,097 | PV: 48 | Role: Missile Boat
+Name : Vulture (Mad Dog) S | Tons: 60 | BV: 2,676 | PV: 42 | Role: Skirmisher
+Name : Arcas   | Tons: 65 | BV: 2,484 | PV: 44 | Role: Skirmisher
+Name : Arcas 2 | Tons: 65 | BV: 2,835 | PV: 48 | Role: Skirmisher
+Name : Cauldron-Born (Ebon Jaguar) (Samantha) | Tons: 65 | BV: 2,372 | PV: 43 | Role: Skirmisher
+Name : Cauldron-Born (Ebon Jaguar) A | Tons: 65 | BV: 2,429 | PV: 41 | Role: Skirmisher
+Name : Cauldron-Born (Ebon Jaguar) B | Tons: 65 | BV: 2,535 | PV: 47 | Role: Sniper
+Name : Cauldron-Born (Ebon Jaguar) C | Tons: 65 | BV: 1,831 | PV: 43 | Role: Missile Boat
+Name : Cauldron-Born (Ebon Jaguar) D | Tons: 65 | BV: 2,228 | PV: 47 | Role: Skirmisher
+Name : Cauldron-Born (Ebon Jaguar) Prime | Tons: 65 | BV: 1,952 | PV: 41 | Role: Skirmisher
+Name : Crossbow H | Tons: 65 | BV: 1,707 | PV: 41 | Role: Skirmisher
+Name : Fire Scorpion 2 | Tons: 65 | BV: 1,749 | PV: 40 | Role: Missile Boat
+Name : Ha Otoko   | Tons: 65 | BV: 1,873 | PV: 40 | Role: Missile Boat
+Name : Linebacker A | Tons: 65 | BV: 2,264 | PV: 44 | Role: Sniper
+Name : Linebacker B | Tons: 65 | BV: 2,048 | PV: 43 | Role: Skirmisher
+Name : Linebacker C | Tons: 65 | BV: 2,075 | PV: 41 | Role: Skirmisher
+Name : Linebacker D | Tons: 65 | BV: 2,039 | PV: 50 | Role: Skirmisher
+Name : Linebacker E | Tons: 65 | BV: 1,846 | PV: 40 | Role: Skirmisher
+Name : Linebacker Prime | Tons: 65 | BV: 2,390 | PV: 44 | Role: Skirmisher
+Name : Loki (Hellbringer) C | Tons: 65 | BV: 2,076 | PV: 40 | Role: Striker
+Name : Loki (Hellbringer) F | Tons: 65 | BV: 1,839 | PV: 39 | Role: Striker
+Name : Loki (Hellbringer) H | Tons: 65 | BV: 1,952 | PV: 40 | Role: Sniper
+Name : Loki (Hellbringer) J | Tons: 65 | BV: 2,415 | PV: 42 | Role: Scout
+Name : Loki (Hellbringer) M | Tons: 65 | BV: 2,200 | PV: 42 | Role: Sniper
+Name : Thunderbolt C 2 | Tons: 65 | BV: 2,170 | PV: 46 | Role: Juggernaut
+Name : Archer (Wolf) | Tons: 70 | BV: 2,365 | PV: 51 | Role: Missile Boat
+Name : Gallowglas WD | Tons: 70 | BV: 2,094 | PV: 43 | Role: Skirmisher
+Name : Nova Cat A | Tons: 70 | BV: 2,629 | PV: 43 | Role: Sniper
+Name : Nova Cat B | Tons: 70 | BV: 2,492 | PV: 53 | Role: Missile Boat
+Name : Nova Cat C | Tons: 70 | BV: 1,944 | PV: 42 | Role: Sniper
+Name : Nova Cat D | Tons: 70 | BV: 2,084 | PV: 40 | Role: Brawler
+Name : Nova Cat Prime | Tons: 70 | BV: 2,530 | PV: 44 | Role: Sniper
+Name : Thor (Summoner) E | Tons: 70 | BV: 2,612 | PV: 46 | Role: Skirmisher
+Name : Thor (Summoner) F | Tons: 70 | BV: 2,186 | PV: 46 | Role: Skirmisher
+Name : Thor (Summoner) H | Tons: 70 | BV: 2,536 | PV: 43 | Role: Skirmisher
+Name : Thor (Summoner) M | Tons: 70 | BV: 2,251 | PV: 41 | Role: Sniper
+Name : Mad Cat (Timber Wolf) (Bounty Hunter) | Tons: 75 | BV: 2,829 | PV: 59 | Role: Brawler
+Name : Mad Cat (Timber Wolf) (Pryde) | Tons: 75 | BV: 2,900 | PV: 51 | Role: Missile Boat
+Name : Mad Cat (Timber Wolf) E | Tons: 75 | BV: 2,444 | PV: 53 | Role: Sniper
+Name : Mad Cat (Timber Wolf) H | Tons: 75 | BV: 2,627 | PV: 58 | Role: Missile Boat
+Name : Mad Cat (Timber Wolf) N | Tons: 75 | BV: 2,862 | PV: 53 | Role: Brawler
+Name : Mad Cat (Timber Wolf) S | Tons: 75 | BV: 2,462 | PV: 54 | Role: Skirmisher
+Name : Mad Cat (Timber Wolf) TC | Tons: 75 | BV: 2,903 | PV: 52 | Role: Skirmisher
+Name : Night Gyr A | Tons: 75 | BV: 2,680 | PV: 45 | Role: Skirmisher
+Name : Night Gyr B | Tons: 75 | BV: 2,140 | PV: 38 | Role: Sniper
+Name : Night Gyr C | Tons: 75 | BV: 2,468 | PV: 42 | Role: Skirmisher
+Name : Night Gyr D | Tons: 75 | BV: 2,889 | PV: 46 | Role: Missile Boat
+Name : Night Gyr E | Tons: 75 | BV: 2,717 | PV: 47 | Role: Skirmisher
+Name : Night Gyr Prime | Tons: 75 | BV: 2,830 | PV: 47 | Role: Skirmisher
+Name : Viper (Black Python)   | Tons: 75 | BV: 2,813 | PV: 46 | Role: Skirmisher
+Name : Viper (Black Python) 2 | Tons: 75 | BV: 2,520 | PV: 44 | Role: Skirmisher
+Name : Viper (Black Python) 5 | Tons: 75 | BV: 2,925 | PV: 46 | Role: Skirmisher
+Name : Canis   | Tons: 80 | BV: 2,498 | PV: 44 | Role: Sniper
+Name : Man O' War (Gargoyle) (Conal) | Tons: 80 | BV: 2,580 | PV: 50 | Role: Skirmisher
+Name : Man O' War (Gargoyle) E | Tons: 80 | BV: 2,257 | PV: 56 | Role: Skirmisher
+Name : Man O' War (Gargoyle) H | Tons: 80 | BV: 2,183 | PV: 50 | Role: Skirmisher
+Name : Naga II H | Tons: 80 | BV: 2,284 | PV: 47 | Role: Brawler
+Name : Warhammer IIC 3 | Tons: 80 | BV: 2,382 | PV: 49 | Role: Brawler
+Name : Marauder IIC 8 | Tons: 85 | BV: 2,554 | PV: 53 | Role: Brawler
+Name : Masakari (Warhawk) D | Tons: 85 | BV: 2,474 | PV: 53 | Role: Sniper
+Name : Masakari (Warhawk) F | Tons: 85 | BV: 2,775 | PV: 55 | Role: Sniper
+Name : Masakari (Warhawk) H | Tons: 85 | BV: 2,601 | PV: 53 | Role: Brawler
+Name : Masakari (Warhawk) I | Tons: 85 | BV: 3,026 | PV: 54 | Role: Sniper
+Name : Savage Coyote A | Tons: 85 | BV: 2,852 | PV: 52 | Role: Juggernaut
+Name : Savage Coyote B | Tons: 85 | BV: 2,284 | PV: 51 | Role: Juggernaut
+Name : Savage Coyote Prime | Tons: 85 | BV: 2,613 | PV: 55 | Role: Juggernaut
+Name : Stalker STK-3F (Jamison) | Tons: 85 | BV: 2,707 | PV: 57 | Role: Missile Boat
+Name : Kingfisher H | Tons: 90 | BV: 2,525 | PV: 52 | Role: Brawler
+Name : Star Adder (Blood Asp) A | Tons: 90 | BV: 3,452 | PV: 54 | Role: Brawler
+Name : Star Adder (Blood Asp) B | Tons: 90 | BV: 2,885 | PV: 62 | Role: Missile Boat
+Name : Star Adder (Blood Asp) C | Tons: 90 | BV: 2,270 | PV: 51 | Role: Brawler
+Name : Star Adder (Blood Asp) D | Tons: 90 | BV: 2,396 | PV: 50 | Role: Brawler
+Name : Star Adder (Blood Asp) Prime | Tons: 90 | BV: 2,654 | PV: 57 | Role: Brawler
+Name : Gladiator (Executioner) E | Tons: 95 | BV: 2,988 | PV: 58 | Role: Skirmisher
+Name : Gladiator (Executioner) H | Tons: 95 | BV: 3,059 | PV: 53 | Role: Skirmisher
+Name : Gladiator (Executioner) TC | Tons: 95 | BV: 3,363 | PV: 63 | Role: Skirmisher
+Name : Turkina A | Tons: 95 | BV: 2,906 | PV: 56 | Role: Missile Boat
+Name : Turkina B | Tons: 95 | BV: 3,420 | PV: 58 | Role: Juggernaut
+Name : Turkina C | Tons: 95 | BV: 2,798 | PV: 54 | Role: Juggernaut
+Name : Turkina D | Tons: 95 | BV: 3,132 | PV: 64 | Role: Juggernaut
+Name : Turkina M | Tons: 95 | BV: 2,495 | PV: 49 | Role: Sniper
+Name : Turkina Prime | Tons: 95 | BV: 2,944 | PV: 56 | Role: Sniper
+Name : Behemoth (Stone Rhino) 2 | Tons: 100 | BV: 3,107 | PV: 52 | Role: Juggernaut
+Name : Daishi (Dire Wolf) "Prometheus" | Tons: 100 | BV: 2,900 | PV: 55 | Role: Juggernaut
+Name : Daishi (Dire Wolf) "Widowmaker" | Tons: 100 | BV: 3,041 | PV: 59 | Role: Juggernaut
+Name : Daishi (Dire Wolf) (Hohiro) | Tons: 100 | BV: 3,048 | PV: 61 | Role: Sniper
+Name : Daishi (Dire Wolf) C | Tons: 100 | BV: 3,610 | PV: 64 | Role: Juggernaut
+Name : Daishi (Dire Wolf) H | Tons: 100 | BV: 2,992 | PV: 56 | Role: Juggernaut
+Name : Daishi (Dire Wolf) S | Tons: 100 | BV: 2,985 | PV: 58 | Role: Juggernaut
+Name : Daishi (Dire Wolf) W | Tons: 100 | BV: 2,951 | PV: 59 | Role: Juggernaut
+Name : Daishi (Dire Wolf) X | Tons: 100 | BV: 2,645 | PV: 57 | Role: Juggernaut
+Name : Iron Cheetah A | Tons: 100 | BV: 2,708 | PV: 59 | Role: Juggernaut
+Name : Iron Cheetah B | Tons: 100 | BV: 3,303 | PV: 57 | Role: Juggernaut
+Name : Iron Cheetah C | Tons: 100 | BV: 2,915 | PV: 57 | Role: Brawler
+Name : Iron Cheetah D | Tons: 100 | BV: 2,871 | PV: 54 | Role: Brawler
+Name : Iron Cheetah Prime | Tons: 100 | BV: 3,155 | PV: 58 | Role: Sniper
+Name : Kodiak 5 | Tons: 100 | BV: 3,067 | PV: 56 | Role: Brawler
+Name : Kraken (Bane) 2 | Tons: 100 | BV: 2,502 | PV: 55 | Role: Sniper
+Name : Kraken (Bane) 3 | Tons: 100 | BV: 2,941 | PV: 69 | Role: Missile Boat
